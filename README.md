@@ -9,8 +9,7 @@ This coding project simulates a symetrical set of eyes. The eyes track wherever 
 - Create a smoother animation that can adapt to different scenarios
 - Change the color of the eyes or other attributes along the face
 ## License
-MIT License
-MIT License
+**MIT License**
 
 Copyright (c) 2021 Justin Arteaga
 
