@@ -1,4 +1,4 @@
-# Eye-Tracker :eye_speech_bubble: :eye_speech_bubble:
+# Eye-Tracker :eyes:
 ## Description 
 This coding project simulates a symetrical set of eyes. The eyes track wherever the mouse goes and will follow it as long as it remains on screen. 
 ## How to Run
